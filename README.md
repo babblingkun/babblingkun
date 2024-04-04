@@ -2,7 +2,7 @@
 - 👀 I’m interested in minecraft mods
 - 🌱 I’m currently learning Ruby and Python C++...
 - 📫 How to reach me none
-- 😂 I recently changed all my IDs, so my Java reposts have disappeared!
+- 😂 I recently changed all my IDs, so my Repositories have disappeared!
 
 - ##  My Absolute Favorites
 - 💻   I like Quiltloader
