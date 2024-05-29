@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @babblingkun
 - 👀 I’m interested in minecraft mods
-- 🌱 I’m currently learning Ruby and Python C++...
+- 🌱 I’m currently learning Ruby and Python...
 - 📫 How to reach me none
 - 😂 I recently changed all my IDs, so my Repositories have disappeared!
 
