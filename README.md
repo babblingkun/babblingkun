@@ -5,7 +5,7 @@
 - 😂 I recently changed all my IDs, so my Repositories have disappeared!
 
 - ##  My Absolute Favorites
-- 💻   I lave Quiltloader
+- 💻   I love Quiltloader
 - 🍰   cake,sweets & Japanese food
 
 <!---
