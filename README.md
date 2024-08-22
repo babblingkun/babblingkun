@@ -5,7 +5,7 @@
 - 😂 I recently changed all my IDs, so my Repositories have disappeared!
 
 - ##  My Absolute Favorites
-- 💻   QuiltMCloader and NeoForged
+- 💻   QuiltMCloader & NeoForged
 - 🍰   cake,sweets & Japanese food
 
 <!---
