@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @babblingkun
-- 👀 I’m interested in minecraft mods
-- 🌱 I’m currently learning C++ and Python...
-- 📫 How to reach me none
-- 😂 I recently changed all my IDs, so my Repositories have disappeared!
-
-- ##  My Absolute Favorites
-- 💻   QuiltMCloader & NeoForged
-- 🍰   cake,sweets & Japanese food
+- 👋 Hi, I’m 潺潺君
+- 👀 I’m GAY
 
 <!---
 kotyopuwwwwww/kotyopuwwwwww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
